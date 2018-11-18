@@ -80,5 +80,13 @@ def interference():
 def algorithm():
     return HTML('<img src="images/algorithm.jpg" align="center">')
 
+def bit_vs_qubit():
+    return HTML('<img src="images/bit_vs_qubit.jpg" align="center">')
+
+def qrac():
+    return HTML('<img src="images/qrac.png" align="center">')
+
+def other_qracs():
+    return HTML('<img src="images/other_qracs.png" align="center">')
 
 print("Hello Korea, Hello KIAS, Hello Superconducting Quantum Information ... ")
