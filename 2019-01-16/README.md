@@ -1,4 +1,4 @@
-# Talk given at Superconducting Quantum Information | KIAS November 2018
+# Talk given at NTU-IBM Q Initial Workshop in Taiwan 2019
 
 ## Install
 
